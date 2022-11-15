@@ -1,0 +1,1 @@
+console.log("list.js입니다.")
